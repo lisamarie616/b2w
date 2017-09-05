@@ -54,6 +54,14 @@ button, input, .btn, a.btn {
   border-color: #d95131;
 }
 
+.modal-lg {
+    max-width: 598px;
+}
+
+.modal-body .container-fluid {
+  padding: 0;
+}
+
 /* === HERO === */
 
 #hero {
